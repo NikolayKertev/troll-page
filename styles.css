@@ -37,7 +37,6 @@ header {
     background: -webkit-linear-gradient(#000000, rgb(228, 3, 3));
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    transition: ease-out 0.4s;
 }
 
 footer {
@@ -45,11 +44,6 @@ footer {
     border-top: 0.2em solid rgba(164, 10, 10, 0.815);
     padding: 0.8em;
     margin: 3em 0 0 0;
-}
-
-header:hover {
-    transform: scale(1.2);    
-    transition: ease-out 0.8s;
 }
 
 .image-container {
